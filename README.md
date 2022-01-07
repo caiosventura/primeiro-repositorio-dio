@@ -1,2 +1,2 @@
-# primeiro-reposit-rio---dio
+# primeiro-repositorio-dio
 Desafio de projeto
